@@ -1,7 +1,8 @@
 # Calculadora de Cerradura LR(0)
 
 Programa que calcula la cerradura (closure) de un conjunto de ítems LR(0) para una gramática libre de contexto.
-
+## video 
+https://youtu.be/_rrIxaK_0oM
 ## Requisitos
 
 - Python 3.12+
