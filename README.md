@@ -38,8 +38,5 @@ Seleccione una gramática del menú y el ítem inicial. El programa muestra el p
 | 4 | E → E+T \| T, T → T*F \| F, F → (E) \| id *(vista en clase)* |
 | 5 | Personalizada |
 
-## Pruebas
 
-```bash
-python tests/test_closure.py
-```
+
